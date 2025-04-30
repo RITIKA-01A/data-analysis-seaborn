@@ -1,0 +1,12 @@
+They are used for :
+1> used for univariate analysis
+2> used to find out the distribution
+3> range of the observation
+4> central tendency
+5> is the data bimodal
+6> are there any outliers
+
+Plots under distribution Plots
+1> histplot
+2> kdeplot
+3> rugplot

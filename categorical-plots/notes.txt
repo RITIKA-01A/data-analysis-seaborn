@@ -1,0 +1,15 @@
+Categorical Plots
+
+--> Categorical Scatter Plots
+   1> Stripplot
+   2> Swarmplot
+
+--> Categorical Distribution Plots
+   1> Boxplot
+   2> Violinplot
+
+--> Categorical Estimate Plot -> central tendency
+    1> Barplot
+    2> Pointplot
+    3> Countplot
+    
